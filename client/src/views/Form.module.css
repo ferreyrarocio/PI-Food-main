@@ -1,0 +1,40 @@
+.form{
+    display: flex;
+    flex-direction:column;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color:#e7c932f0;
+    width: 100%;
+    align-items:center;
+    justify-content:center;
+    margin-top: 1em;
+    border: 2.5px dotted #ce13ced4;
+    font-family:DK Lemon Yellow Sun;
+    align-items:center;
+    justify-content: space-around;
+    font-size: xx-large;
+}
+.back{
+    background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);
+    border: 2px outset #ce13ced4;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    justify-content: center;
+    border-radius: 5px;
+    align-items:center;
+    justify-content: space-around;
+    font-family:DK Lemon Yellow Sun;
+    margin-left: 88px;
+    font-size: xx-large;
+}
+.pasos{
+    border: 1px solid black; 
+    font-family:DK Lemon Yellow Sun;
+    margin-left: 66px;
+    border: 2px outset #ce13ced4;
+    background-color: #e662e6d4;
+    font-size: xx-large;
+}
+.input{
+    font-size: xx-large;
+}

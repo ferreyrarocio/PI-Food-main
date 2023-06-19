@@ -1,0 +1,29 @@
+.land{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+    background-image: url('../components/wallpaperlp.jpg') ;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.landi{
+    border: 3px dotted rgb(153, 35, 226);
+    background-image: linear-gradient(315deg, #833ab4 0%, #fd1d1d 50%, #fcb045);
+    color: #fff;
+    background-position: contain;
+    border-radius: 10px;
+    font-family:DK Lemon Yellow Sun;
+    font-size: xxx-large;
+    
+}
+.titulo{
+    font-family:DK Lemon Yellow Sun;
+    font-size: xx-large;
+    color: #000000;
+    font-style: italic;
+}

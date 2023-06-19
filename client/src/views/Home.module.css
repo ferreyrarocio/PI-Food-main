@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  align-items: center;
+  align-items:center;
+  justify-content: space-around;
+  flex-direction: row;
+  }
+
+.navbar{
+  flex-direction: row;
+  align-items:center;
+  justify-content: space-around;
+}
+
+.cards{
+  align-items:center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+FILTERS
+
+.row{
+  align-items:center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.botonfind{
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border:1.5px outset #a050ff;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 5px;
+  background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);
+  font-family:DK Lemon Yellow Sun;
+  font-size: xx-large;
+}
+
+.filters{
+  border: 2px solid #e7c932c7;
+  margin-top: 3px;
+  border-radius: 3px;
+  background-image: linear-gradient(315deg,#4cc666c7 0%, #eaad84 75%);
+  font-family:DK Lemon Yellow Sun;
+  font-size: xx-large;
+}
+

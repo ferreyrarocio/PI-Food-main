@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    position: sticky;
+    background-color: #db179d  ;
+    padding: 2.5px;
+    align-items: flex-end;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 0.6em;
+    margin-top: 0.5em;
+    font-size: x-large;
+}
+
+.buscar{
+    background-color: #ec49b8  ;
+    border:none;
+    font-size: xx-large;
+}
+.blanco{
+    background-color: white ;
+    border-radius: 6px;
+    font-size: xx-large;
+    border: none;
+    margin-bottom: 0.1em;
+}
